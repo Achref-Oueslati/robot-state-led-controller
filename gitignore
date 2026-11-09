@@ -1,0 +1,17 @@
+# --- ROS 2 Workspace Directories ---
+build/
+install/
+log/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# --- C++ / Arduino IDE ---
+.vscode/
+.idea/
+.clang-format
+*.local
